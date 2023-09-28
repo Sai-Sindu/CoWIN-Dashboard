@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.vaccination-coverage-container {
+  background-color: #1c1c2b;
+  padding: 30px;
+  border-radius: 15px;
+  font-family: 'Roboto';
+}
+.vaccination-coverage-title {
+  color: #cbd5e1;
+  font-size: 30px;
+}
